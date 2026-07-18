@@ -1,4 +1,4 @@
-# Hi, I'm Teferi 👋
+# Hi, I'm Tef 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tefkassa)
 [![Podcast](https://img.shields.io/badge/Habesha_in_Tech-Podcast-blueviolet?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/habeshaInTech)
