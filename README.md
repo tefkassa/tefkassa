@@ -47,10 +47,10 @@ Through collaborative discussions in **Amharic and English**, the podcast foster
 
 ---
 
-## 📊 GitHub Stats
+//## 📊 GitHub Stats
 
-![Teferi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tefkassa&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tefkassa&layout=compact&theme=tokyonight&hide_border=true)
+//![Teferi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tefkassa&show_icons=true&theme=tokyonight&hide_border=true)
+//![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tefkassa&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
